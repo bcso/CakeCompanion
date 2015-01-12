@@ -1,5 +1,5 @@
 # CakeCompanion
-Compendium of implemented solutions for interview questions by Interview Cake
+Compendium of implemented solutions for interview questions by [Interview Cake](https://www.interviewcake.com/)
 
 ###List of Slices
 1. [Cake Thief](https://www.interviewcake.com/question/cake-thief)
