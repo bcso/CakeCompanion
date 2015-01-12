@@ -2,7 +2,7 @@
 Compendium of implemented solutions for interview questions by Interview Cake
 
 ###List of Slices
-1. [Cake Theif](https://www.interviewcake.com/question/cake-thief)
+1. [Cake Thief](https://www.interviewcake.com/question/cake-thief)
 2. [Find unique int among duplicates](https://www.interviewcake.com/question/find-unique-int-among-duplicates)
 3. [Delete node](https://www.interviewcake.com/question/delete-node)
 4. [Shuffle](https://www.interviewcake.com/question/shuffle)
