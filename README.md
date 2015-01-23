@@ -13,3 +13,4 @@ Compendium of implemented solutions for interview questions by [Interview Cake](
 9. [Bracket Validator](https://www.interviewcake.com/question/bracket-validator)
 10. [Second largest item in bst](https://www.interviewcake.com/question/second-largest-item-in-bst)
 11. [Find duplicate files](https://www.interviewcake.com/question/find-duplicate-files)
+12. [Merging Ranges](https://www.interviewcake.com/question/merging-ranges)
